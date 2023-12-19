@@ -30,8 +30,3 @@ print(square.area())
 print(square.perimeter())
 
 
-# In[ ]:
-
-
-
-
