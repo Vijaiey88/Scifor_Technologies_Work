@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 class Shape:
   def area(self):
     pass
@@ -27,17 +21,9 @@ class Square(Shape):
   def perimeter(self):
     return 4*self.side
 
-
-# In[2]:
-
-
 rectangle = Rectangle(4,2)
 print(rectangle.area())
 print(rectangle.perimeter())
-
-
-# In[3]:
-
 
 square = Square(5)
 print(square.area())
