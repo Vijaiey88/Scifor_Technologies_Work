@@ -1,7 +1,7 @@
 
 # Expense Tracker
 
-This is a Simple Expense Tracker is a user-friendly application designed to streamline the process of managing and visualizing personal finances. It offers a straightforward approach to expense tracking with key features such as Effortless Input, Dynamic Visualizations, Real-Time Overview.
+This is a Simple Expense Tracker is a user-friendly application designed to ease the process of managing and visualizing personal expenses. It offers a straightforward approach to expense tracking with key features such as Effortless Input, Dynamic Visualizations, Real-Time Overview.
 
 
 ## Tech Stack
@@ -67,7 +67,7 @@ Run application by clicking the below link :
 https://expensetrackerapp.streamlit.app
 ## Feedback
 
-If you have any feedback, please reach out to us at vijaiey88@gmail.com
+If you have any feedback, please reach out to me at vijaiey88@gmail.com
 
 
 ## Documentation
