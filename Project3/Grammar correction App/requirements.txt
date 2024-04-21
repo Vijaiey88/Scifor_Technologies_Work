@@ -1,3 +1,4 @@
-transformers==4.40.0
 streamlit==1.33.0
-torch==2.2.2
+transformers==4.40.0
+torch==2.2.2+cu117
+torchvision==0.14.1+cu117
