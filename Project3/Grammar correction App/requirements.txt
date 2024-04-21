@@ -1,2 +1,5 @@
-streamlit
-torch
+streamlit==1.15.2
+transformers==4.20.1
+torch==1.12.0
+torchaudio==0.12.0
+torchvision==0.13.0
