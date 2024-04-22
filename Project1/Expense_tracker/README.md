@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Expense Tracker
 
@@ -75,3 +76,6 @@ If you have any feedback, please reach out to me at vijaiey88@gmail.com
 [Streamlit - Creating web application](https://docs.streamlit.io/)
 
 [Streamlit - Deploy web application](https://docs.streamlit.io/streamlit-community-cloud/deploy-your-app)
+=======
+## Expense Tracker Application
+>>>>>>> parent of a7165b0 (Updating)
