@@ -55,7 +55,7 @@ Please make sure you have Conda and Git installed and configured on your system.
 
 ## Demo
 
-
+https://github.com/Vijaiey88/VijaieyAnand__Scifor/assets/125460160/1273e410-1696-443a-9bd9-95383b964e65
 
 
 ## Application link
