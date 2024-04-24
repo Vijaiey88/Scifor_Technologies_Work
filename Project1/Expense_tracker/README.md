@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Expense Tracker
 
 This is a Simple Expense Tracker is a user-friendly application designed to ease the process of managing and visualizing personal expenses. It offers a straightforward approach to expense tracking with key features such as Effortless Input, Dynamic Visualizations, Real-Time Overview.
@@ -76,6 +74,4 @@ If you have any feedback, please reach out to me at vijaiey88@gmail.com
 [Streamlit - Creating web application](https://docs.streamlit.io/)
 
 [Streamlit - Deploy web application](https://docs.streamlit.io/streamlit-community-cloud/deploy-your-app)
-=======
-## Expense Tracker Application
->>>>>>> parent of a7165b0 (Updating)
+
