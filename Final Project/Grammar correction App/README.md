@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Grammar Correction
 
 This is a Grammar Correction application designed to correct the grammar errors in sentence while typing. It is created by fine tuning pre-trained BERT model.
@@ -76,7 +74,3 @@ If you have any feedback, please reach out to me at vijaiey88@gmail.com
 [HuggingFace - BERT model](https://huggingface.co/google-bert/bert-base-uncased)
 
 [Streamlit - Creating web application](https://docs.streamlit.io/)
-
-=======
-## Grammar Correction Application 
->>>>>>> parent of a7165b0 (Updating)
